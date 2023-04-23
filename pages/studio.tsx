@@ -1,7 +1,7 @@
 'use client'
 
 import {NextStudio} from 'next-sanity/studio'
-import config from '@/config/sanity-config'
+import config from '@/studio/sanity.config'
 
 // issue https://github.com/vercel/next.js/issues/48447
 const StudioPage = () => {
